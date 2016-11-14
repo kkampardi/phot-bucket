@@ -6,10 +6,6 @@ To setup and run the sample code, you're going to need `npm` from NodeJS availab
 
 ## Setup
 
-### Docker
-
-Docke configuration is in a TODO: state
-
 ### Manual
 
 You're encouraged to setup a `virtualenv` to work in prior to configuring the dependencies.
