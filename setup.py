@@ -2,8 +2,6 @@
 
 from setuptools import setup, find_packages
 
-
-# Shamelessly stolen (then modified) from https://github.com/cburgmer/pdfserver/blob/master/setup.py
 def parse_requirements(file_name):
     import re
     requirements = []
